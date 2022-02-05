@@ -1,0 +1,10 @@
+
+.datepicker {
+    display: flex;
+    flex-direction: row;
+}
+
+.react-date-picker__wrapper {
+    padding: 14px;
+    border-radius: 5px;
+}
